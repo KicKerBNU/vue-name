@@ -1,5 +1,5 @@
 # vue-name
-
+https://img.shields.io/github/license/leonardorafael/beercss
 ## Project setup
 ```
 npm install
